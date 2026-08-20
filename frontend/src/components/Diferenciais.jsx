@@ -1,5 +1,5 @@
-import tomateImg from '../assets/tomateIMG';
-import fogoImg from '../assets/fogoIMG';
+import tomateImg from '../assets/tomate.png';
+import fogoImg from '../assets/fogo.png';
 import queijoImg from '../assets/queijo.png';
 import relampagoImg from '../assets/relampago.png'
 
