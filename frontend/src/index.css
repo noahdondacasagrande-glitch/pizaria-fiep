@@ -154,5 +154,29 @@ body{
 
 .card{
     background-color: #155E3A;
+    padding: 30px 20px;
+    margin: 0px 20px;
+    border-radius: 15px;
+    width: 180px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s;
+}
 
+.card:hover{
+    transform: translateY(-8px);
+}
+
+.card img{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+
+.card p{
+    font-size: 16px;
+    line-height: 1.3;
 }
